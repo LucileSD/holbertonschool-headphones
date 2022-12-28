@@ -10,3 +10,4 @@ The web page must be responsive for 3 different screens:
 | tablet | 768px |
 | mobile | 375px |
 
+this is the exemple of figma: ![Alt](/images/exemple.png)
