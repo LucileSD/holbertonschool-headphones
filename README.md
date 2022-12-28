@@ -16,7 +16,8 @@ This is the exemple of figma:
 
 
 You can clone this repository and on your local server see the result and change the width.
-You will ith files:
+
+You will with files:
 - 0, the header
 - 1, the section "what we do"
 - 2, the section "our results"
