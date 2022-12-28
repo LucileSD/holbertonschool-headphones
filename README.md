@@ -1,6 +1,6 @@
 # holbertonschool-headphones
 
-This project consists in reproducing a web design in Figma with HTML and CSS.
+This project consists in reproducing a web design in Figma with HTML and CSS, as a web designer give us some instructions.
 
 The web page must be responsive for 3 different screens:
 
@@ -17,7 +17,7 @@ This is the exemple of figma:
 
 You can clone this repository and on your local server see the result and change the width.
 
-You will with files:
+You will see with files:
 - 0, the header
 - 1, the section "what we do"
 - 2, the section "our results"
