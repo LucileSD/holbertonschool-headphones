@@ -19,8 +19,6 @@
   font-variant: normal;
   text-transform: none;
   line-height: 1;
-  font-size: 80px;
-  color: #FF6565;
 
   /* Better Font Rendering =========== */
   -webkit-font-smoothing: antialiased;
@@ -53,12 +51,18 @@
 }
 .holberton_school-icon-ic_facebook:before {
   content: "\e908";
+  font-size: 30px;
+  filter: invert(100%);
 }
 .holberton_school-icon-ic_hearing:before {
   content: "\e909";
+  font-size: 80px;
+  color: #FF6565;
 }
 .holberton_school-icon-ic_instagram:before {
   content: "\e90a";
+  font-size: 30px;
+  filter: invert(100%);
 }
 .holberton_school-icon-ic_laptop:before {
   content: "\e90b";
@@ -68,15 +72,23 @@
 }
 .holberton_school-icon-ic_music:before {
   content: "\e90d";
+  font-size: 80px;
+  color: #FF6565;
 }
 .holberton_school-icon-ic_sound:before {
   content: "\e90e";
+  font-size: 80px;
+  color: #FF6565;
 }
 .holberton_school-icon-ic_twitter:before {
   content: "\e90f";
+  font-size: 30px;
+  filter: invert(100%);
 }
 .holberton_school-icon-ic_video:before {
   content: "\e910";
+  font-size: 80px;
+  color: #FF6565;
 }
 .holberton_school-icon-menu:before {
   content: "\e911";
